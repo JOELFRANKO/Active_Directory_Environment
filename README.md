@@ -12,9 +12,10 @@ The demo explaine here is a simple demo of setting up a active directory in a vi
 At first we have to set up the Virtual environment for the execution of active directory by the following flow diagram.
 <br />
 
-<p align="center">
-![img 1- FLOw](https://github.com/JOELFRANKO/Active_Directory_Environment/assets/81144974/265cc2d1-be76-4a1f-8243-00b2e8c2e3d9)
-</p>
+
+![img 1- FLOw](https://github.com/JOELFRANKO/Active_Directory_Environment/assets/81144974/edc853ca-dab3-45f7-99b9-8dc971449371)
+<br />
+<br />
 <h2>Languages Used</h2>
 
 - <b>PowerShell:</b> To create multiple user in the Domain Controller
@@ -23,17 +24,13 @@ At first we have to set up the Virtual environment for the execution of active d
 
 - <b>Windows Server:</b> To setup the user and maintain the acess and to maintain the active directory.
 
-<h2></h2>
+<h2>Creating a VM Domain Server in Virtual Box</h2>
 
-<p align="center">
 
-</p>
 
 <h2></h2>
 
-<p align="center">
 
-</p>
 
 
 <!--
