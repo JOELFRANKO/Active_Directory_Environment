@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/MHsI8hJmggI?si=RmKL8lPGSc1vjlXV)
 
 
-<h2>Description</h2>
+<h2>Description:</h2>
 <b>The Powershell script in this repository is responsible for adding multiple users to the Domain controller through DHCP </b>
 <br />
 <br />
